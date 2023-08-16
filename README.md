@@ -43,7 +43,7 @@ When I'm not coding, I love to immerse myself in the world of books. I'm a calis
 
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Mihlali Kota](https://www.linkedin.com/in/mihlali-kota/)
+- **LinkedIn:** [Mihlali Kota](https://www.linkedin.com/in/mihlali-kota)
 - **Twitter:** [@MihlaliKota](https://twitter.com/MihlaliKota)
 - **Email:** [hlalikota@gmail.com](mailto:hlalikota@gmail.com)
 
