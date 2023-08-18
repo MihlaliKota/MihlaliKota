@@ -20,7 +20,7 @@ This is a basic calculator application I designed to perform arithmetic operatio
 
 - **[Weather Application](https://github.com/MihlaliKota/Weather_Project.git)**
 
-Currently building a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips.
+I have built a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips.
 
 ## 🔧 Technologies & Tools
 
