@@ -29,6 +29,7 @@ I have built a user-friendly and intuitive weather application that brings you r
 - **CSS:** Design, presentation, and interactivity.
 - **Bootstrap:** Rapid mobile-first design.
 - **JavaScript:** Interactivity and complex actions.
+- **Python:** Versatile language enabling efficient and elegant solutions across diverse applications.
 
 ### Tools
 - **VSCode:** Main code editor with debugging and version control.
