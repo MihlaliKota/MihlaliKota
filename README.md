@@ -20,7 +20,7 @@ This is a basic calculator application I designed to perform arithmetic operatio
 
 - **[Weather Application](https://mihlalikota.github.io/WeatherCheck/)**
 
-I have built a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips. Inspired by [https://github.com/AsmrProg-YT](AsmrProg-YT)
+I have built a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips. Inspired by [AsmrProg-YT](https://github.com/AsmrProg-YT)
 
 ## 🔧 Technologies & Tools
 
