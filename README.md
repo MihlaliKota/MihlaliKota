@@ -18,7 +18,7 @@ I undertook this coding project as a part of my academic coursework, aimed at ac
 
 This is a basic calculator application I designed to perform arithmetic operations such as addition, subtraction, multiplication, and division. The application provides an easy-to-use interface for performing calculations quickly and efficiently.
 
-- **[Weather Application](https://mihlalikota.github.io/WeatherCheck/)**
+- **[Weather Application](https://weathercheck-1app.netlify.app/)**
 
 I have built a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips. Inspired by [AsmrProg-YT](https://github.com/AsmrProg-YT).
 
