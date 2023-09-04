@@ -14,7 +14,7 @@ This is my digital resume project, showcasing my skills, experience, and achieve
 
 I undertook this coding project as a part of my academic coursework, aimed at achieving a strong grasp of coding principles and techniques. The project entailed collaborating with a team to design and implement a dynamic website for a local startup, aligning coding proficiency with real-world community needs.
 
-- **[Calculator](https://github.com/MihlaliKota/Calculator_Project.git)**
+- **[Calculator](https://1simple-calculator.netlify.app/)**
 
 This is a basic calculator application I designed to perform arithmetic operations such as addition, subtraction, multiplication, and division. The application provides an easy-to-use interface for performing calculations quickly and efficiently.
 
