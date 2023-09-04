@@ -10,7 +10,7 @@ I'm a software developer passionate about web and mobile development. With a bac
 
 This is my digital resume project, showcasing my skills, experience, and achievements in an interactive and engaging format. This was a project completed as part of my academic coursework, where I aimed to demonstrate my ability to create a dynamic and user-friendly online portfolio.
 
-- **[Book Connect](https://github.com/MihlaliKota/MIHKOT685_FTO2304_Group1A_MihlaliKota_IWACapstone.git)**
+- **[Book Connect](https://bookconnection.netlify.app/)**
 
 I undertook this coding project as a part of my academic coursework, aimed at achieving a strong grasp of coding principles and techniques. The project entailed collaborating with a team to design and implement a dynamic website for a local startup, aligning coding proficiency with real-world community needs.
 
