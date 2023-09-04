@@ -6,7 +6,7 @@
 I'm a software developer passionate about web and mobile development. With a background in customer service, I enjoy creating projects that are easy to use, visually engaging, and provide seamless user experiences. My goal is to combine my technical skills with my understanding of user needs to develop applications that not only meet functional requirements but also delight and empower users in their digital interactions.
 
 ## 💼 My Work
-- **[Digital Resume](https://digitalresumecodespace.netlify.app/)**
+- **[Digital Resume](https://github.com/MihlaliKota/DigitalResume.git)**
 
 This is my digital resume project, showcasing my skills, experience, and achievements in an interactive and engaging format. This was a project completed as part of my academic coursework, where I aimed to demonstrate my ability to create a dynamic and user-friendly online portfolio.
 
