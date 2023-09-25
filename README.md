@@ -20,7 +20,12 @@ This is a basic calculator application I designed to perform arithmetic operatio
 
 - **[Weather Application](https://weathercheck-1app.netlify.app/)**
 
-I have built a user-friendly and intuitive weather application that brings you real-time weather information from around the world right to your fingertips.
+I've meticulously designed and developed a user-friendly, intuitive weather application that empowers you
+          with real-time
+          weather information from diverse global locations, all accessible with ease. This application guarantees you
+          stay
+          well-informed about weather conditions, no matter where you are, providing a seamless and informative
+          experience. 
 
 ## 🔧 Technologies & Tools
 
