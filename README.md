@@ -45,7 +45,7 @@ I've meticulously designed and developed a user-friendly, intuitive weather appl
 Studying Software Development at [CodeSpace Academy](https://www.codespace.co.za/).
 
 ## 🎉 Hobbies & Interests
-When I'm not coding, I love to immerse myself in the world of books. I'm a calisthenics enthusiast, always pushing myself to new physical heights. You'll also find me passionately cheering for Chelsea FC in soccer matches. Beyond sports, I'm a culinary explorer, mastering new recipes I find online. I consider myself a stoic, always embracing the philosophy of being one percent better than yesterday. And of course, I love listening to music to inspire my creativity and keep me motivated.
+When I'm not coding, I love to immerse myself in the world of books. I'm a calisthenics enthusiast, always pushing myself to new physical heights. You'll also find me passionately cheering for Chelsea FC in soccer matches. Beyond sports, I'm a culinary explorer, mastering new recipes I find online. I consider myself a stoic, always embracing the philosophy of being one percent better than yesterday.
 
 
 ## 📫 How to Reach Me
