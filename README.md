@@ -16,7 +16,7 @@ I undertook this coding project as a part of my academic coursework, aimed at ac
 
 - **[AudioSphere](https://audiospherepodcast.netlify.app/)**
 
-**Description:** AudioSphere is a web application created using React, CSS, and HTML. This project was developed as the final project during my time at CodeSpace Academy. AudioSphere serves as a user-friendly podcast player, allowing users to search for and enjoy their favorite podcasts with ease. It was part of my academic coursework.
+AudioSphere is a web application created using React, CSS, and HTML. This project was developed as the final project during my time at CodeSpace Academy. AudioSphere serves as a user-friendly podcast player, allowing users to search for and enjoy their favorite podcasts with ease. It was part of my academic coursework.
 
 - **[Weather Application](https://weathercheck-1app.netlify.app/)**
 
