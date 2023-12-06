@@ -22,7 +22,7 @@ AudioSphere is a web application created using React, CSS, and HTML. This projec
 
 I've meticulously designed and developed a user-friendly, intuitive weather application that empowers you with real-time weather information from diverse global locations, all accessible with ease. This application guarantees you stay well-informed about weather conditions, no matter where you are, providing a seamless and informative experience. 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 ### Programming Languages
 - **HTML:** Structure and content of web pages.
@@ -30,11 +30,6 @@ I've meticulously designed and developed a user-friendly, intuitive weather appl
 - **Bootstrap:** Rapid mobile-first design.
 - **JavaScript:** Interactivity and complex actions.
 - **Python:** Versatile language enabling efficient and elegant solutions across diverse applications.
-
-### Tools
-- **VSCode:** Main code editor with debugging and version control.
-- **Git:** Version control with Github hosting.
-- **Figma:** Design and testing for websites and apps.
 
 ## 🌱 I'm A Lifelong Learner
 I graduated from [CodeSpace Academy](https://www.codespace.co.za/) and I'm continuing my journey in Software Development.
