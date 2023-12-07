@@ -25,11 +25,11 @@ I've meticulously designed and developed a user-friendly, intuitive weather appl
 ## 🔧 Technologies
 
 ### Programming Languages
-- **HTML:** Structure and content of web pages.
-- **CSS:** Design, presentation, and interactivity.
-- **Bootstrap:** Rapid mobile-first design.
-- **JavaScript:** Interactivity and complex actions.
-- **Python:** Versatile language enabling efficient and elegant solutions across diverse applications.
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
+- **Python**
 
 ## 🌱 I'm A Lifelong Learner
 I graduated from [CodeSpace Academy](https://www.codespace.co.za/) and I'm continuing my journey in Software Development.
