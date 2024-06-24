@@ -6,10 +6,6 @@
 I'm a software developer passionate about web and mobile development. With a background in customer service, I enjoy creating projects that are easy to use, visually engaging, and provide seamless user experiences. My goal is to combine my technical skills with my understanding of user needs to develop applications that not only meet functional requirements but also delight and empower users in their digital interactions.
 
 ## 💼 My Work
-- **[Digital Resume](https://digitalresumecodespace.netlify.app/)**
-
-This is my digital resume project, showcasing my skills, experience, and achievements in an interactive and engaging format. This was a project completed as part of my academic coursework, where I aimed to demonstrate my ability to create a dynamic and user-friendly online portfolio.
-
 - **[Book Connect](https://bookconnection.netlify.app/)**
 
 I undertook this coding project as a part of my academic coursework, aimed at achieving a strong grasp of coding principles and techniques. The project entailed collaborating with a team to design and implement a dynamic website for a local startup, aligning coding proficiency with real-world community needs.
@@ -30,6 +26,7 @@ I've meticulously designed and developed a user-friendly, intuitive weather appl
 - **Bootstrap**
 - **JavaScript**
 - **Python**
+- **Java**
 
 ## 🌱 I'm A Lifelong Learner
 I'm a Junior Fullstack Developer Candidate at CapaCiTi undergoing an intense program to add skills that'll help me learn valuable tech skills and be more employable. I graduated from [CodeSpace Academy](https://www.codespace.co.za/) and I'm continuing my journey in Software Development.
