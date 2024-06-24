@@ -32,7 +32,7 @@ I've meticulously designed and developed a user-friendly, intuitive weather appl
 - **Python**
 
 ## 🌱 I'm A Lifelong Learner
-I graduated from [CodeSpace Academy](https://www.codespace.co.za/) and I'm continuing my journey in Software Development.
+I'm a Junior Fullstack Developer Candidate at CapaCiTi undergoing an intense program to add skills that'll help me learn valuable tech skills and be more employable. I graduated from [CodeSpace Academy](https://www.codespace.co.za/) and I'm continuing my journey in Software Development.
 
 ## 🎉 Hobbies & Interests
 When I'm not coding, I love to immerse myself in the world of books. I'm a calisthenics enthusiast, always pushing myself to new physical heights. You'll also find me passionately cheering for Chelsea FC in soccer matches. Beyond sports, I'm a culinary explorer, mastering new recipes I find online. I consider myself a stoic, always embracing the philosophy of being one percent better than yesterday.
