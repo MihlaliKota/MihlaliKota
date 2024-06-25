@@ -14,9 +14,9 @@ I undertook this coding project as a part of my academic coursework, aimed at ac
 
 AudioSphere is a web application created using React, CSS, and HTML. This project was developed as the final project during my time at CodeSpace Academy. AudioSphere serves as a user-friendly podcast player, allowing users to search for and enjoy their favorite podcasts with ease. It was part of my academic coursework.
 
-- **[Weather Application](https://weathercheck-1app.netlify.app/)**
+- **[SneakyKleen](https://sneakykleenz.netlify.app/)**
 
-I've meticulously designed and developed a user-friendly, intuitive weather application that empowers you with real-time weather information from diverse global locations, all accessible with ease. This application guarantees you stay well-informed about weather conditions, no matter where you are, providing a seamless and informative experience. 
+
 
 ## 🔧 Technologies
 
