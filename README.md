@@ -16,7 +16,7 @@ AudioSphere is a web application created using React, CSS, and HTML. This projec
 
 - **[SneakyKleen](https://sneakykleenz.netlify.app/)**
 
-
+SneakyKleen is a website created as part of my technical skill evaluation at CapaCiTi. This was the first project done at CapaCiTi with my teammates. This website was created using HTML, CSS and Vanilla JavaScript. 
 
 ## 🔧 Technologies
 
