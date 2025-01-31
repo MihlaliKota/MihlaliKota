@@ -34,5 +34,4 @@ Outside of coding, I love reading, practicing calisthenics, and cheering for Che
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Mihlali Kota](https://www.linkedin.com/in/mihlali-kota)
-- **Twitter:** [@MihlaliKota](https://twitter.com/MihlaliKota)
 - **Email:** [hlalikota@gmail.com](mailto:hlalikota@gmail.com)
