@@ -16,22 +16,5 @@ A React-based web application developed during my final project at CodeSpace Aca
 - **[SneakyKleen](https://sneakykleenz.netlify.app/)**  
 A website created using HTML, CSS, and Vanilla JavaScript during my technical skill evaluation at CapaCiTi. This was my first project at CapaCiTi, completed with my teammates.
 
-## 🔧 Technologies
-
-### Programming Languages
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **JavaScript**
-- **Python**
-- **Java**
-
 ## 🌱 I'm A Lifelong Learner
-As a Junior Fullstack Developer Candidate at CapaCiTi, I am undergoing an intense program to enhance my technical skills and employability. I am a graduate of [CodeSpace Academy](https://www.codespace.co.za/) and continue to pursue my passion for software development.
-
-## 🎉 Hobbies & Interests
-Outside of coding, I love reading, practicing calisthenics, and cheering for Chelsea FC. I also enjoy exploring new culinary recipes and embrace stoicism, striving to improve myself daily.
-
-## 📫 How to Reach Me
-- **LinkedIn:** [Mihlali Kota](https://www.linkedin.com/in/mihlali-kota)
-- **Email:** [hlalikota@gmail.com](mailto:hlalikota@gmail.com)
+As a Fullstack Developer Intern at CapaCiTi, I am undergoing an intense program to enhance my technical skills and employability. I am a graduate of [CodeSpace Academy](https://www.codespace.co.za/) and continue to pursue my passion for software development.
