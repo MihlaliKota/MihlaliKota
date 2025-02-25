@@ -1,1 +1,1 @@
-# 👋 Hello, I'm Mihlali Kota
+# Hello, I'm Mihlali Kota
